@@ -1,4 +1,9 @@
-﻿using System.ComponentModel;
+﻿/*
+Encoding - A mini tool to encrypt and decrypt a plain-text
+Copyright (c) 2015 - Nguyễn Tuấn
+*/
+
+using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
 

@@ -1,4 +1,9 @@
-﻿using System.Security.Cryptography;
+﻿/*
+Encoding - A mini tool to encrypt and decrypt a plain-text
+Copyright (c) 2015 - Nguyễn Tuấn
+*/
+
+using System.Security.Cryptography;
 using System.Text;
 
 namespace Encoding.Cipher

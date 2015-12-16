@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Encoding - A mini tool to encrypt and decrypt a plain-text
+Copyright (c) 2015 - Nguyễn Tuấn
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;

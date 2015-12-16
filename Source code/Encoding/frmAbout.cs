@@ -1,6 +1,10 @@
-﻿using System;
+﻿/*
+Encoding - A mini tool to encrypt and decrypt a plain-text
+Copyright (c) 2015 - Nguyễn Tuấn
+*/
+
+using System;
 using System.Windows.Forms;
-using Encoding.Properties;
 
 namespace Encoding
 {
